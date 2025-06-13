@@ -2,8 +2,9 @@ h1{
     color:
     rgb(239, 183, 0);
     font-family:Arial;
-    font-size: 18px;
-
+    font-size: 24px;
+display: flex;
+justify-content: center;
 
 }
     
